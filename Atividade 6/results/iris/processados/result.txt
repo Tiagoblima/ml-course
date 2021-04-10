@@ -1,0 +1,14 @@
+\begin{tabular}{lrrrr}
+\toprule
+{} &   Média &  Mediana &  Desvio Padrão &  Tempo Médio \\
+classifier\_name &         &          &                &              \\
+\midrule
+DecisionTree    &  0.9416 &     0.94 &       0.032284 &     0.004239 \\
+KNN-15          &  0.9760 &     0.98 &       0.023561 &     0.006958 \\
+KNN-3           &  0.9740 &     0.98 &       0.015779 &     0.008321 \\
+KNN-5           &  0.9740 &     0.98 &       0.012936 &     0.007640 \\
+KNN-7           &  0.9720 &     0.98 &       0.020603 &     0.007100 \\
+KNN-9           &  0.9680 &     0.97 &       0.024244 &     0.007115 \\
+MultinomialNB   &  0.5440 &     0.59 &       0.133034 &     0.005961 \\
+\bottomrule
+\end{tabular}
